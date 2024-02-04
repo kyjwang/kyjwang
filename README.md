@@ -1,3 +1,7 @@
+# 👋 Hi there welcome to my GitHub portfolio👋
+
+
+
 # About me
 
 - 👋 Hi, I’m Kevin Wang, i'm currently studying second year at KTH Royal Institute of Technology in Stockholm studying BSc in Information and Communication Technology.
