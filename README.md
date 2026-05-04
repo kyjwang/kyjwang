@@ -4,11 +4,12 @@
 
 # About me
 
-- 👋 Hi, I’m Kevin Wang, i'm currently studying second year at KTH Royal Institute of Technology in Stockholm studying BSc in Information and Communication Technology.
-- 💞️ I’m interested in programing, sports and games!
-- 🌱 I’m currently learning information and communication technology
+- 👋 Hi, I’m Kevin Wang, i am a bacheloer graduate student from KTH Royal Institute of Technology in Stockholm in Information and Communication Technology.
+- 💞️ My hobby is programming, new technologies, sports, and games!
+- 🌱 
 
 ## Projects 
+Fruitspy - mobile app that detects the ripeness of a fruit
 
 
 ## Other information
