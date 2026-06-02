@@ -10,7 +10,9 @@
 
 ## Projects 
 Fruitspy - mobile app that detects the ripeness of a fruit
-
+Realball simulater - Web app that 
+Finsight - a webb app for discussing and posting stocks 
+PixelFund AI - trading agents in pixel art that simulates stocks in real time
 
 ## Other information
 Languages: Swedish, English, Chinese
