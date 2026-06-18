@@ -4,22 +4,15 @@
 
 # About me
 
-- 👋 Hi, I’m Kevin Wang, i am a bacheloer graduate student from KTH Royal Institute of Technology in Stockholm in Information and Communication Technology.
-- 💞️ My hobby is programming, new technologies, sports, and games!
-- 🌱 
-
-## Projects 
-- Fruitspy - mobile app that detects the ripeness of a fruit
-- Realball simulater - Web app that 
-- Finsight - a webb app for discussing and posting stocks 
-- PixelFund AI - trading agents in pixel art that simulates stocks in real time
+- 👋 Hi, I’m Kevin Wang
+- 🎓 I’m a Bachelor’s graduate in Information and Communication Technology from KTH Royal Institute of Technology in Stockholm.
+- 💻 I’m interested in projects related to automation, finance technology, machine learning, web development, and mobile development.
+- 🌱 I’m currently exploring AI applications, full-stack development, mobile development, and cloud technologies.
+- 💞️ My hobby is soccer, computer games, and programming!
 
 ## Other information
 Languages: Swedish, English, Chinese
 - 📫 kevin_wang99@hotmail.com
-
-
-
 
 <!---
 kyjwang/kyjwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
